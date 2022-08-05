@@ -33,6 +33,11 @@ li:active {
   box-shadow: inset 0.05rem 0.05rem 0.1rem 0.1rem black;
 }
 
+p {
+  font-size: 4rem;
+  letter-spacing: 2rem;
+}
+
 .header-title {
   border-bottom: 4px solid black;
   text-align: center;
@@ -57,9 +62,27 @@ li:active {
   align-items: center;
 }
 
+.answer-guess {
+  display: flex;
+  flex-direction: row;
+}
+
 .keyboard-input {
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+}
+
+.answer-li {
+  font-size: 1.5rem;
+  margin: 0.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 4rem;
+  height: 4rem;
+  background-color: black;
+  border: 2px solid black;
+  border-radius: 0.5rem;
 }
