@@ -9,8 +9,8 @@
 <p>And as you can see, if the word contains the letter that you've guessed, it's reveal the letter in the word</p>
 <p>Also the letter you already guessed will be grayed out in the keyboard and you can't press that letter again!</p>
 <p>This prevents you from accidently guessing the same letter twice, which although never happens in real life, if done in this application, would actually consider your input incorrect</p>
-<em>But what if you're trying to guess the word, but you have no idea what the word might be?<em>
-<p>No worries!</p>
+<em>But what if you're trying to guess the word, but you have no idea what the word might be?</em>
+<em>No worries!</em>
 <img width="1512" alt="Screen Shot 2022-08-06 at 21 47 32" src="https://user-images.githubusercontent.com/81598650/183249534-66d1cee7-0bb3-4f5f-b81a-fb7b8eea9bb9.png">
 <p>If you guess the wrong letters more than three times, the app will give you a hint!<p>
 <img width="1512" alt="Screen Shot 2022-08-06 at 21 50 32" src="https://user-images.githubusercontent.com/81598650/183249601-1c7641a0-bc90-4a6d-95f3-47e3062811c3.png">
