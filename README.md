@@ -19,3 +19,4 @@
 <p>You'll see this message if you failed to guess the word.</p>
 <p>But don't worry! You can always try again.</p>
 <p>Whether you wont or lost, once you complete a game, the game will automatically restart.</p>
+Now live at: https://javascript-hangman.vercel.app
